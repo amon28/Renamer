@@ -1,0 +1,9 @@
+name: Renamer
+version: 1.0
+main: Renamer\Main
+api: [3.0.0]
+author: Amon
+
+commands:
+ rename:
+  description: Rename items
