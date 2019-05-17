@@ -1,10 +1,11 @@
-# Player-Head
-Gets player head when you kill someone.
+# Renamer
+The plugin enables a player to rename any kind of items using a nametag.\n
+This plugin uses the formAPI of jojoe77777.
 
-# How To Install (recommended to have DevTools)
-●1.Download the plugin.
-●2.Go to Pocketmine folder.
-●3.Open Plugins folder.
-●4.Copy the plugin folder.
-●5.Paste the Plugin folder in the plugins.
-●6.Enjoy!
+# How to use
+1. Long tap or tap on any block using the nametag.\n
+2. Now Long tap or tap on any block holding the item you want to rename.\n
+3. A form will pop up and there you would put the custom name.\n
+
+# FormAPI by jojoe77777
+https://poggit.pmmp.io/p/FormAPI/1.1.1
